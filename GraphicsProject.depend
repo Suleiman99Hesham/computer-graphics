@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1557040281 source:d:\fci\current year(third)\2nd term\computer graphics\graphicsproject\main.cpp
+	<tchar.h>
+	<windows.h>
+	<iostream>
+	<vector>
+	<utility>
+	<math.h>
+	<fstream>
+
